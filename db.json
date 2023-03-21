@@ -1,5 +1,10 @@
 {
   "users": [
-    
+    {
+      "id": 1,
+      "username": "souravkkr1",
+      "email": "kmrsourav786@gmai.com",
+      "password": "12345"
+    }
   ]
 }
